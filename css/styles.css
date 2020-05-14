@@ -49,15 +49,15 @@ div {
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
-.top-cloud {
+.right-cloud {
   position: absolute;
   right: 300px;
   top: 50px;
 }
-.bottom-cloud {
+.left-cloud {
   position: absolute;
   left: 300px;
-  bottom: 275px;
+  top: 50px;
 }
 .skill-row {
   width: 50%;
